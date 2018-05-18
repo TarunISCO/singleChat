@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "869057258418",
+    "firebase_url": "https://singlechat-7fc18.firebaseio.com",
+    "project_id": "singlechat-7fc18",
+    "storage_bucket": "singlechat-7fc18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869057258418:android:98e30f5444bed1aa",
+        "android_client_info": {
+          "package_name": "com.example.tarun.singlechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869057258418-3brjtktes0qornnrkhcmjcqtgh77tkfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarun.singlechat",
+            "certificate_hash": "d65f4e80e16885b06e97df860afd4353087a362f"
+          }
+        },
+        {
+          "client_id": "869057258418-o5irjgoofpuvkfr7fp5kn26p7fjfmai3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlFzEhA8vlvK-einlAH9VWLGd5LW1Dbto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869057258418-o5irjgoofpuvkfr7fp5kn26p7fjfmai3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
